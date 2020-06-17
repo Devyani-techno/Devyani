@@ -1,0 +1,5 @@
+Create table to show the uploaded images
+
+CREATE TABLE image ( id int NOT NULL AUTO_INCREMENT,
+image blob,
+);
